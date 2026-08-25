@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ismael! <br/><a href="https://github.com/">Programmer</a>, <a href="www.linkedin.com/in/ismael-arevalo-49480233b">Cybersecurity Professional</a>
+<h1>Hi, I'm Ismael! <br/><a href="https://github.com/">Programmer</a>, <a href="www.linkedin.com/in/ismael-arevalo-49480233b">Cybersecurity Student</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
