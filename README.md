@@ -4,7 +4,7 @@
   
 - <b>Python</b>
   - [Phishing Tool Email Scanner]
-  - [Facial Recognition]
+  - [Facial Recognition login]
   - [Keylogger]
   - [Ransomware (Encrypter)]
 - <b>C++</b>
