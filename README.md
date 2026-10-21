@@ -4,8 +4,9 @@
   
   - Web App Vulnerability Scanner Python, HTML
   - Facial Recognition login- Python
-  - Phishing-Detector-Using VirusTotal- Python
-
+  - Phishing Detector using VirusTotal- Python
+  - Watcherware - Bash - in progress
+  - ML phishing identifier- Python - in progress
   
 
 
