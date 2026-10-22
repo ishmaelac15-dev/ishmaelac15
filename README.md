@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ismael! Programmer, <a href="www.linkedin.com/in/ismael-arevalo-49480233b">Cybersecurity Student</a>
+<h1>Hi, I'm Ismael! Programmer, Cybersecurity Student
 <h2>👨‍💻 Cybersecurity Personal Projects:</h2>
   
   - <a href="https://github.com/ishmaelac15-dev/web-app-vulnerability-scanner-on-osawp.git">Web App Vulnerability Scanner Python, HTML</a>
