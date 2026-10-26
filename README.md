@@ -4,7 +4,7 @@
   - <a href="https://github.com/ishmaelac15-dev/web-app-vulnerability-scanner-on-osawp.git">Web App Vulnerability Scanner Python, Docker, OWASP</a>
   - <a href= "https://github.com/ishmaelac15-dev/Face-recognition-login-python.git">Facial Recognition login- Python</a>
   - <a href="https://github.com/ishmaelac15-dev/Phishing-Detector-using-Virus-Total.git">Phishing Detector using VirusTotal- Python</a>
-  - Deleted file recovery walkthrough using Autospy - in progress
+  - <a href="https://github.com/ishmaelac15-dev/Deleted-file-recovery-walkthrough-using-Autospy-.git">Deleted file recovery walkthrough using Autospy</a>
   - Self-Hosted Lab Write-Up: SSH/FTP Brute-Forcing with Hydra - in progress
   - ML phishing identifier- Python - in progress
   
